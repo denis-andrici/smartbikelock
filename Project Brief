@@ -1,0 +1,10 @@
+**Brief** 
+
+This is a Smart Bike Lock system designed to combine hardware security with wireless control and mobile integration. The goal is to build a functional prototype that allows a user to lock and unlock their bike via a RFID tag.
+
+**Objectives**
+
+Design a prototype lock that locks and unlocks using RFID technology
+Detects potential tampering and alerts owner (start via a buzzer and LED, build towards a phone notification)
+Functions as a lock but merely a prototype to ensure proof of concept
+Ensure sleek, compact and professional look. Avoid a block like design
